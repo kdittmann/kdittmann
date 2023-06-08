@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning more coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me ... kdittmann on github
 
 <!---
 kdittmann/kdittmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
